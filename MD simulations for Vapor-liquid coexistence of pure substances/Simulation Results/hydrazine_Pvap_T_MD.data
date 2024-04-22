@@ -1,0 +1,11 @@
+# rho values are assessed from MD under the conditions of constant volume-temperature (NVT). 
+# Meanwhile, vapor pressure values are estimated based on Pzz press in gromacs, 2024-02-05
+# SI units   
+# T [K] P_hydrazine_vapor [bar] P_hydrazine_vapor_error [bar]
+380  0.209474  0.019456
+390  0.283740  0.022309
+400  0.393179  0.067337
+410  0.555669  0.045371
+420  0.862858  0.081427
+430  1.142340  0.068620
+440  1.669622  0.079500

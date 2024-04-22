@@ -1,0 +1,9 @@
+# vapor pressure values are assessed from MD under the conditions of constant volume-temperature (NVT). 
+# Meanwhile, vapor pressure values are estimated based on Pzz press in gromacs
+# SI units   
+# T [K]    P_chloroform_vapor [bar] P_water_vapor_error [bar]
+320   0.476783     0.070400
+330   0.712670     0.085358
+340   0.951389     0.090200
+350   1.235513     0.098400
+360   1.634852     0.121900

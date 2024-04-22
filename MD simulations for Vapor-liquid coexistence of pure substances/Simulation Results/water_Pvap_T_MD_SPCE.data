@@ -1,0 +1,9 @@
+# Reference https://www.nist.gov/mml/csd/informatics/sat-tmmc-liquid-vapor-coexistence-properties-spce-water-lrc
+#  VLE data for SPC/E water
+# SI units   
+# T [K] P_water_vapor [bar] P_water_vapor_error [bar]
+380 0.494126  0.102497
+390 0.803011  0.148720
+400 1.082535  0.167240
+410 1.519832  0.126707
+

@@ -1,0 +1,10 @@
+# rho values are assessed from MD under the conditions of constant volume-temperature (NVT). 
+# Meanwhile, vapor pressure values are estimated based on Pzz press in gromacs
+# SI units   
+# T [K] P_ethanol_vapor [bar] P_ethanol_vapor_error [bar]
+330 0.823671  0.052156
+340 1.191226  0.058612
+350 1.821281  0.169927
+360 2.626886  0.122171
+370 3.612138  0.131889
+

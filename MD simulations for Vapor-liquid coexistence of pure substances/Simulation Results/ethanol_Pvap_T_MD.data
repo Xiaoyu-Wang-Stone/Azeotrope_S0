@@ -1,0 +1,10 @@
+# rho values are assessed from MD under the conditions of constant volume-temperature (NVT). 
+# Meanwhile, vapor pressure values are estimated based on Pzz press in gromacs
+# SI units   
+# T [K]    rho_water_liquid [kg/m^3] rho_water_vapor [kg/m^3] P_water_vapor [bar] P_water_vapor_error [bar]
+340    0.831573     0.090221    0.712544     0.3257
+350    1.201381     0.156499    1.080581     0.3960
+360    1.940971     0.217000    1.830141     0.6010
+370    2.702464     0.299743    2.419326     0.6009
+380    3.620725     0.293483    3.533210     0.5343
+

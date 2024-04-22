@@ -1,0 +1,11 @@
+# rho values are assessed from (Brick-CFCMC GE) under the conditions of constant volume-temperature (NVT). 
+# Meanwhile, vapor pressure values are estimated based on NVT simulations in gromacs, by fixing in the corresponding vapor density.
+# SI units   
+# T [K]    rho_ethanol_liquid [kg/m^3] rho_ethanol_vapor [kg/m^3] P_ethanol_vapor [bar] P_ethanol_vapor_error [bar]
+320    0.7824417491e3    0.3632391616e0    0.21882     0.021
+340    0.7592215662e3    0.1108921619e1    0.75212     0.046
+350    0.7494151674e3    0.1330493706e1    0.88532     0.043
+360    0.7408474452e3    0.2522127913e1    1.68700     0.11
+380    0.7155755362e3    0.4097232588e1    2.83342     0.19    
+400    0.6922412586e3    0.8477646935e1    5.22122     0.26        
+420    0.6600393879e3    0.1388919150e2    9.96705     0.66

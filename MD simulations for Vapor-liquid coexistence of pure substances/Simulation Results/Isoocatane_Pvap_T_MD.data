@@ -1,0 +1,9 @@
+# rho values are assessed from MD under the conditions of constant volume-temperature (NVT). 
+# Meanwhile, vapor pressure values are estimated based on Pzz press in gromacs, 2024-02-05
+# SI units   
+# T [K] P_Isooctane_vapor [bar] P_Isooctane_vapor_error [bar]
+360  0.917692  0.102300
+370  1.294912  0.091792
+380  1.697284  0.175000
+390  2.078844  0.126540
+400  2.640612  0.150900

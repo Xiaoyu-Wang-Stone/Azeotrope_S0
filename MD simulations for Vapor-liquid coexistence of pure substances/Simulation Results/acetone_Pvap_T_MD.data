@@ -1,0 +1,9 @@
+# rho values are assessed from MD under the conditions of constant volume-temperature (NVT). 
+# Meanwhile, vapor pressure values are estimated based on Pzz press in gromacs, 2024-02-05
+# SI units   
+# T [K] P_acetone_vapor [bar] P_acetone_vapor_error [bar]
+310 0.853688 0.068212
+320 1.157604 0.045603
+330 1.609605 0.070827 
+340 2.230172 0.122016
+350 2.909439 0.105300
