@@ -1,2 +1,7 @@
 # Azeotrope_S0
-Predict the azeotrope in binary mixtures
+Data repository for "Integrating Molecular Dynamics Simulations and Experimental Data for Azeotrope Predictions in Binary Mixtures".
+
+As for the S0 method, please also refer to: https://github.com/BingqingCheng/S0
+
+
+
